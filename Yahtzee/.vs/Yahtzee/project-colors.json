@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9df251d3-561e-4d9d-9612-de017d62e6f2": {
+      "ProjectGuid": "9df251d3-561e-4d9d-9612-de017d62e6f2",
+      "DisplayName": "Yahtzee",
+      "ColorIndex": 0
+    },
+    "5dd7277a-7138-4b15-b735-22a26373306e": {
+      "ProjectGuid": "5dd7277a-7138-4b15-b735-22a26373306e",
+      "DisplayName": "UnitTestYahtzee",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

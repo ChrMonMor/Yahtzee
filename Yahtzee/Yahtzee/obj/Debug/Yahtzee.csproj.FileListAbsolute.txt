@@ -1,0 +1,8 @@
+C:\Users\HFGF\source\repos\Yahtzee\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+C:\Users\HFGF\source\repos\Yahtzee\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+C:\Users\HFGF\source\repos\Yahtzee\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+C:\Users\HFGF\source\repos\Yahtzee\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.AssemblyReference.cache
+C:\Users\HFGF\source\repos\Yahtzee\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.SuggestedBindingRedirects.cache
+C:\Users\HFGF\source\repos\Yahtzee\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\source\repos\Yahtzee\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+C:\Users\HFGF\source\repos\Yahtzee\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
